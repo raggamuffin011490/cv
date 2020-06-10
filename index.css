@@ -1,0 +1,42 @@
+body{background-image: url(../images/web.png);}
+
+hr {border-style: none;
+border-top: dotted;
+border-color: white;
+border-width: 5px;
+width: 2%;}
+
+
+h1 {font-style: italic; color: black;}
+h2 {color: #f0a500; font-style: oblique}
+h3 {color: #f0a500}
+
+table {border-color: #10375c;font-size: 25px}
+
+ul {font-style: italic;font-size: 25px;
+color: black}
+
+td {font-style: italic}
+
+input[type=text] {
+  background-color: grey;
+  color: #07031a;
+}
+
+input[type=date] {
+  background-color: grey;
+  color: #07031a;
+}
+
+input[type=email] {
+  background-color: grey;
+  color: #07031a;
+}
+
+ol {font-style: italic;font-size: 25px;}
+
+textarea {background: grey;}
+
+a {color: #f0a500;}
+
+input[type=submit]{background-color: #f0a500;}
