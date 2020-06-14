@@ -1,4 +1,4 @@
-body{background-image: url(web.png);}
+body{background-image: url(images/webde.jpg);}
 hr {border-style: none;
 border-top: dotted;
 border-color: white;
@@ -6,14 +6,14 @@ border-width: 5px;
 width: 2%;}
 
 
-h1 {font-style: italic; color: black;}
-h2 {color: #f0a500; font-style: oblique}
-h3 {color: #f0a500}
+h1 {font-style: italic; color: #000000;}
+h2 {color: #000000; font-style: oblique}
+h3 {color: #000000}
 
 table {border-color: #10375c;font-size: 25px}
 
 ul {font-style: italic;font-size: 25px;
-color: black}
+color: #000000}
 
 td {font-style: italic}
 
